@@ -1,1 +1,2 @@
-# azure--ai-phoneix-eval
+# Arize-AI-Phoenix-RAG-Evaluation
+Arize AI Phoenix RAG Evaluation
